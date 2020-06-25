@@ -1,0 +1,8 @@
+User-agent: *
+Crawl-delay: 10
+
+Disallow: /user/
+Disallow: /task/tags/
+Disallow: /login/
+
+flag{C0mpRoB4r_eL_aRch1v0_R0boTs}
